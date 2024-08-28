@@ -8,8 +8,8 @@ Meu nome é Marcelo Paludetto
 
 ### Você pode entrar em contato comigo :mailbox
 
-paludettomarcelo@gmail.com
+me0054102@gmail.com
 
-@marcelopaludetto
+@me0054102@gmail.com
 
 ![descrição do GIF](link GIF do Tenor)
