@@ -1,6 +1,6 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil :maduh16
 
-Meu nome é Marcelo Paludetto
+Meu nome é Maria Eduarda
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
